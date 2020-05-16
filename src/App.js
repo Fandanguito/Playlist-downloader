@@ -1,15 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <div className='container'>
-        hola
-      </div>
-    </div>
-  );
-}
+import GoogleBtn from './GoogleBtn'
 
+class App extends Component {
+  render() {
+    return (
+      
+      <div className="App">
+        <div className="container">
+          <h1>
+            Log in to start
+          </h1>
+        <GoogleBtn/>
+        </div>
+      </div>
+    );
+  }
+}
 export default App;
