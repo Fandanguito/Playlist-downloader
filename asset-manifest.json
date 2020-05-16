@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Playlist-downloader/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Playlist-downloader/static/js/main.df8dbd8f.chunk.js",
-    "main.js.map": "/Playlist-downloader/static/js/main.df8dbd8f.chunk.js.map",
+    "main.css": "/Playlist-downloader/static/css/main.5e6b4173.chunk.css",
+    "main.js": "/Playlist-downloader/static/js/main.7439cfa1.chunk.js",
+    "main.js.map": "/Playlist-downloader/static/js/main.7439cfa1.chunk.js.map",
     "runtime-main.js": "/Playlist-downloader/static/js/runtime-main.178f6299.js",
     "runtime-main.js.map": "/Playlist-downloader/static/js/runtime-main.178f6299.js.map",
-    "static/js/2.c8653838.chunk.js": "/Playlist-downloader/static/js/2.c8653838.chunk.js",
-    "static/js/2.c8653838.chunk.js.map": "/Playlist-downloader/static/js/2.c8653838.chunk.js.map",
+    "static/js/2.12e10ed0.chunk.js": "/Playlist-downloader/static/js/2.12e10ed0.chunk.js",
+    "static/js/2.12e10ed0.chunk.js.map": "/Playlist-downloader/static/js/2.12e10ed0.chunk.js.map",
     "index.html": "/Playlist-downloader/index.html",
-    "precache-manifest.728101b50dc801a3f913a2cc35268682.js": "/Playlist-downloader/precache-manifest.728101b50dc801a3f913a2cc35268682.js",
+    "precache-manifest.20c9724d6bf1373d42ec8773a946cedb.js": "/Playlist-downloader/precache-manifest.20c9724d6bf1373d42ec8773a946cedb.js",
     "service-worker.js": "/Playlist-downloader/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Playlist-downloader/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c8653838.chunk.js.LICENSE.txt": "/Playlist-downloader/static/js/2.c8653838.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Playlist-downloader/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5e6b4173.chunk.css.map": "/Playlist-downloader/static/css/main.5e6b4173.chunk.css.map",
+    "static/js/2.12e10ed0.chunk.js.LICENSE.txt": "/Playlist-downloader/static/js/2.12e10ed0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.178f6299.js",
-    "static/js/2.c8653838.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.df8dbd8f.chunk.js"
+    "static/js/2.12e10ed0.chunk.js",
+    "static/css/main.5e6b4173.chunk.css",
+    "static/js/main.7439cfa1.chunk.js"
   ]
 }
